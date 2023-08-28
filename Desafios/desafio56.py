@@ -13,4 +13,4 @@ for n in range (0, 4):
 
 print(f'A média das idades é de {media}')
 
-#VOLTAR DEPOIS NESSE EXERCÍCIO!
+#VOLTAR DEPOIS NESSE EXERCÍCIO!!!
